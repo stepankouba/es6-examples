@@ -10,3 +10,11 @@ This is an example of generators implementation for readline interface.
 usage: 
 
 	babel-node: readline-generators.es6;
+
+
+## reduce.es6
+This is simple example, how efectively Array.prototype.reduce method can be used to create nested objects structure;
+
+usage: 
+
+	babel-node: reduce.es6;
